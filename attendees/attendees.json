@@ -9,6 +9,11 @@
             "firstName": "Heba",
             "lastName": "Aljabrine",
             "major": "Computer Science"
+        },
+        {
+            "firstName": "Clint",
+            "lastName": "Jeffery",
+            "major": "Computer Science"
         }
     ]
 }
