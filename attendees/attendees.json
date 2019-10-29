@@ -5,5 +5,17 @@
             "lastName": "Koffi",
             "major": "Computer Science, Electrical Engineering"
         }
+     "attendees": [
+        {
+            "firstName": "Kaleb ",
+            "lastName": "Browning",
+            "major": "Computer Science"
+        }
+      "attendees": [
+        {
+            "firstName": "Dom",
+            "lastName": "Zepeda",
+            "major": "Virtual Tech or Architecture"
+        }
     ]
 }
