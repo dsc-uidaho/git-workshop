@@ -7,3 +7,13 @@
         }
     ]
 }
+
+{
+    "attendees": [
+        {
+            "firstName": "Lucy",
+            "lastName": "Coote",
+            "major": "Psychology and Criminology"
+        }
+    ]
+}
