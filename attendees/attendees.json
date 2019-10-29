@@ -4,12 +4,7 @@
             "firstName": "Koffi Anderson",
             "lastName": "Koffi",
             "major": "Computer Science, Electrical Engineering"
-        }
-    ]
-}
-
-{
-    "attendees": [
+        },
         {
             "firstName": "Lucy",
             "lastName": "Coote",
